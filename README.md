@@ -5,7 +5,7 @@
 - [Resources](#resources)
 - [Requirements](#requirements)
 - [Course](#course)
-- [Exercises](#exercises)
+- [Exercises](#excercises)
   - [Hello world Express](#hello-world-express)
   - [Routing](#routing)
   - [Create Schemas](#create-schemas)
@@ -15,29 +15,16 @@
 
 ## Resources
 
-- [Slides](https://slides.com/scotups/api-design-in-node-with-express-v3)
+- [Slides](https://slides.com/scotups/api-design-in-node-with-express-v3/)
 - [Nodejs](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
-## Suggested Tools
-
-The following are suggested to be installed on your machine before beginning the course
-
-- [VSCode](https://code.visualstudio.com/)
-- [Nodejs](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/)
-- [MongoDB](https://docs.mongodb.com/manual/administration/install-community/)
-- [Insomnia](https://insomnia.rest/)
-- [Nodemon](https://nodemon.io/)
-
 ## Course
 
-This course has two parts, slides and exercises. The slides describe the exerices in detail. Each exercise has a starting branch and solution branch. Example `lesson-1` and `lesson-1-solution`.
+This course has two parts, slides and excercises. The slides describe the excerices in detail. Each excercise has a starting branch and solution branch. Example `lesson-1` and `lesson-1-solution`.
 
 ## Exercises
-
-\*\* Important: Please check out to each exercise branch as the course progresses.
 
 ### Hello world Express
 
@@ -66,8 +53,14 @@ This exercise will have you creating routes and sub routers for our soon the be 
 
 ### Create Schemas
 
+<<<<<<< HEAD
+
 - branch - `lesson-3`
-- test command - `yarn test-models` or `npm run test-models`
+- # test command - `yarn test-models` or `npm run test-models`
+
+* branch - `lesson-3`
+* test command - `yarn test-models` or `npm run test-models`
+  > > > > > > > 78db084ad5c0cb79ed38abdc74694f354258537e
 
 In this exercise, you'll be taking what you learned about Mongoose and MongoDb to create a schema and model for the Item resource.
 
